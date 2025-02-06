@@ -11,8 +11,5 @@ This repository contains data and analysis for e-commerce sales.
 ## Usage
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    ```
 2. Open `data.csv` to view the raw data.
 3. Open `E-Commerce sales.pbix` in Power BI Desktop to view the report.
